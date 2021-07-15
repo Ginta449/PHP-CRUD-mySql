@@ -1,0 +1,72 @@
+body
+{
+	background-image: url("media/mainBackground.png");
+	
+}
+main
+{
+	width: 50%;
+	background-image: url("media/profileMain.png");
+	margin: 0 0 0 22%;
+	padding: 5%;
+}
+td
+{
+	padding: 2%;
+	
+}
+img
+{
+  border: 1px solid #BFBFBF;
+  background-color: white;
+  box-shadow: 10px 10px 5px #594c65;
+}
+p
+{
+	margin: 0 0 0 3%;
+	text-align: justify;
+	font-size: 16px;
+	 line-height: 1.6;
+}
+table
+{
+	width: 100%;
+}
+.logout
+{
+	float: right;
+	padding: 1%;
+	color: white;
+	background-image: url("media/mainBackground.png");
+	box-shadow: 1px 1px 8px black, 2px 2px 8px blue, 3px 3px 8px white;
+	border: none;
+	border-radius: 70px;
+	
+}
+.logout:hover
+{
+	box-shadow: 1px 1px 8px black, 2px 2px 8px red, 3px 3px 8px white;
+	transition: 0.5s;
+}
+.equip
+{
+	width: 100%;
+	padding: 2%;
+	font-size: 30px;
+	background-image: url("media/mainBackground.png");
+	border: none;
+	color: white;
+	box-shadow: 5px 5px 8px black, 7px 7px 8px blue, 10px 10px 8px white;
+	border-radius: 70px;
+	font-family: Broadway;
+	margin: 5% 0 5% 0;
+}
+.equip:hover
+{
+	box-shadow: 5px 5px 8px black, 7px 7px 8px red, 10px 10px 8px white;
+	transition: 0.5s;
+}
+h1
+{
+	border-bottom: 3px solid black;
+}

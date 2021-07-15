@@ -1,0 +1,57 @@
+.index_background_video
+{
+	position: fixed;
+	min-height: 100%;
+	min-width: 100%;
+	overflow: scroll;
+}
+
+h1
+{
+	position: sticky;
+	color: white;
+}
+
+
+.starstruck
+{
+	font-size: 850%;
+	font-family: Broadway;
+	margin: 5% 30% 0 25%;
+	width: 100%;
+	height: auto;
+}
+
+.index
+{
+	color: white;
+	position: relative;
+	border-left: solid;
+	border-right: solid;
+	width: 100%;
+	height: auto;	
+}
+h2
+{
+	color: white;
+	font-family: Broadway;
+	margin: 0 3% 0 3%;
+	text-align: justify;
+	line-height: 1.6;
+	letter-spacing: 3px;
+}
+.indexMovie
+{
+	margin: 2% 0 2% 10%;
+}
+.indexCredentils
+{
+	
+	width: 100%;
+	height: auto;
+}
+a
+{
+	text-decoration: none;
+	color: white;
+}

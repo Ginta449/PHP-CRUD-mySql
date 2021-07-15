@@ -1,0 +1,38 @@
+#login
+{
+	margin: 15% 10% 0 28%;
+	background-color: #d5d7eb;
+	padding: 1%;
+	border-radius: 25px;
+	font-size: 25px;
+	width: 40%;
+}
+body
+{
+	background-image: url("media/mainBackground.png");
+}
+input[type=reset], [type=submit]
+{
+	background-color: white;
+	padding: 1%;
+	width: 10%;
+}
+input[type=submit]:hover
+{
+	background-color: #edecc2;
+}
+input[type=reset]:hover
+{
+	background-color: #edecc2;
+}
+#exit
+{
+	float: right;
+	padding: 1%;
+	width: 10%;
+}
+
+#exit:hover
+{
+	background-color: #7e6ac3;
+}

@@ -1,0 +1,41 @@
+
+li
+{
+	display: inline;
+	margin: 0% 4% 0 4%;
+	font-family: Broadway;
+}
+.nav
+{
+	color: white;
+	position: fixed;
+	margin-top: 4%;
+	font-family: Broadway;
+	font-size: 122%;
+	text-decoration: none;
+}
+.print
+{
+	position: relative;
+	color: white;
+	font-size: 100%;
+}
+
+.nav:hover
+{
+	opacity: 0.5;
+}
+
+#footer
+{
+	color: white;
+	position: sticky;
+	width: 100%;
+	background-color: #7e6ac3;
+}
+
+#demo
+{
+	color: white;
+	position: fixed;
+}

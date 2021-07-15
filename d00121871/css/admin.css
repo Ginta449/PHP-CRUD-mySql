@@ -1,0 +1,32 @@
+main
+{
+	background-color: white;
+	width: 75%;
+	margin: 5% 0 5% 10%;
+	padding: 3%;
+}
+body
+{
+	background-color: grey;
+}
+article
+{
+	margin: 0 0 0 4%;
+}
+.logout
+{
+	float: right;
+	padding: 1%;
+}
+.logout:hover
+{
+	background-color: #edecc2;
+}
+#delete
+{
+	margin: 0 0 0 25%;
+}
+table
+{
+	width: 100%;
+}
